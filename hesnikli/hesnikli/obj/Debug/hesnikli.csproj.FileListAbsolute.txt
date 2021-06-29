@@ -1,0 +1,7 @@
+C:\Users\Peti\source\repos\hesnikli\hesnikli\bin\Debug\hesnikli.exe.config
+C:\Users\Peti\source\repos\hesnikli\hesnikli\bin\Debug\hesnikli.exe
+C:\Users\Peti\source\repos\hesnikli\hesnikli\bin\Debug\hesnikli.pdb
+C:\Users\Peti\source\repos\hesnikli\hesnikli\obj\Debug\hesnikli.csprojAssemblyReference.cache
+C:\Users\Peti\source\repos\hesnikli\hesnikli\obj\Debug\hesnikli.csproj.CoreCompileInputs.cache
+C:\Users\Peti\source\repos\hesnikli\hesnikli\obj\Debug\hesnikli.exe
+C:\Users\Peti\source\repos\hesnikli\hesnikli\obj\Debug\hesnikli.pdb

@@ -1,0 +1,10 @@
+C:\Users\Peti\source\repos\Jegyrendelés\Jegyrendelés\bin\Debug\Jegyrendelés.exe.config
+C:\Users\Peti\source\repos\Jegyrendelés\Jegyrendelés\bin\Debug\Jegyrendelés.exe
+C:\Users\Peti\source\repos\Jegyrendelés\Jegyrendelés\bin\Debug\Jegyrendelés.pdb
+C:\Users\Peti\source\repos\Jegyrendelés\Jegyrendelés\obj\Debug\Jegyrendelés.csprojAssemblyReference.cache
+C:\Users\Peti\source\repos\Jegyrendelés\Jegyrendelés\obj\Debug\Jegyrendelés.Form1.resources
+C:\Users\Peti\source\repos\Jegyrendelés\Jegyrendelés\obj\Debug\Jegyrendelés.Properties.Resources.resources
+C:\Users\Peti\source\repos\Jegyrendelés\Jegyrendelés\obj\Debug\Jegyrendelés.csproj.GenerateResource.cache
+C:\Users\Peti\source\repos\Jegyrendelés\Jegyrendelés\obj\Debug\Jegyrendelés.csproj.CoreCompileInputs.cache
+C:\Users\Peti\source\repos\Jegyrendelés\Jegyrendelés\obj\Debug\Jegyrendelés.exe
+C:\Users\Peti\source\repos\Jegyrendelés\Jegyrendelés\obj\Debug\Jegyrendelés.pdb

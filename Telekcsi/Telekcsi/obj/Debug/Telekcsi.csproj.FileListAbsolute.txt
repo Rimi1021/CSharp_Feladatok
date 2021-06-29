@@ -1,0 +1,7 @@
+C:\Users\Peti\source\repos\Telekcsi\Telekcsi\bin\Debug\Telekcsi.exe.config
+C:\Users\Peti\source\repos\Telekcsi\Telekcsi\bin\Debug\Telekcsi.exe
+C:\Users\Peti\source\repos\Telekcsi\Telekcsi\bin\Debug\Telekcsi.pdb
+C:\Users\Peti\source\repos\Telekcsi\Telekcsi\obj\Debug\Telekcsi.csprojAssemblyReference.cache
+C:\Users\Peti\source\repos\Telekcsi\Telekcsi\obj\Debug\Telekcsi.csproj.CoreCompileInputs.cache
+C:\Users\Peti\source\repos\Telekcsi\Telekcsi\obj\Debug\Telekcsi.exe
+C:\Users\Peti\source\repos\Telekcsi\Telekcsi\obj\Debug\Telekcsi.pdb

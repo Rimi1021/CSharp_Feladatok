@@ -1,0 +1,7 @@
+C:\Users\Peti\source\repos\EU\EU\bin\Debug\EU.exe.config
+C:\Users\Peti\source\repos\EU\EU\bin\Debug\EU.exe
+C:\Users\Peti\source\repos\EU\EU\bin\Debug\EU.pdb
+C:\Users\Peti\source\repos\EU\EU\obj\Debug\EU.csprojAssemblyReference.cache
+C:\Users\Peti\source\repos\EU\EU\obj\Debug\EU.csproj.CoreCompileInputs.cache
+C:\Users\Peti\source\repos\EU\EU\obj\Debug\EU.exe
+C:\Users\Peti\source\repos\EU\EU\obj\Debug\EU.pdb

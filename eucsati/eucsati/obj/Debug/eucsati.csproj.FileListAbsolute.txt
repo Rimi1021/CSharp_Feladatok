@@ -1,0 +1,7 @@
+C:\Users\Peti\source\repos\eucsati\eucsati\bin\Debug\eucsati.exe.config
+C:\Users\Peti\source\repos\eucsati\eucsati\bin\Debug\eucsati.exe
+C:\Users\Peti\source\repos\eucsati\eucsati\bin\Debug\eucsati.pdb
+C:\Users\Peti\source\repos\eucsati\eucsati\obj\Debug\eucsati.csprojAssemblyReference.cache
+C:\Users\Peti\source\repos\eucsati\eucsati\obj\Debug\eucsati.csproj.CoreCompileInputs.cache
+C:\Users\Peti\source\repos\eucsati\eucsati\obj\Debug\eucsati.exe
+C:\Users\Peti\source\repos\eucsati\eucsati\obj\Debug\eucsati.pdb

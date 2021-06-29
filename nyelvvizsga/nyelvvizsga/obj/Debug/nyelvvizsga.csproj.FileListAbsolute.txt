@@ -1,0 +1,7 @@
+C:\Users\Peti\source\repos\nyelvvizsga\nyelvvizsga\bin\Debug\nyelvvizsga.exe.config
+C:\Users\Peti\source\repos\nyelvvizsga\nyelvvizsga\bin\Debug\nyelvvizsga.exe
+C:\Users\Peti\source\repos\nyelvvizsga\nyelvvizsga\bin\Debug\nyelvvizsga.pdb
+C:\Users\Peti\source\repos\nyelvvizsga\nyelvvizsga\obj\Debug\nyelvvizsga.csprojAssemblyReference.cache
+C:\Users\Peti\source\repos\nyelvvizsga\nyelvvizsga\obj\Debug\nyelvvizsga.csproj.CoreCompileInputs.cache
+C:\Users\Peti\source\repos\nyelvvizsga\nyelvvizsga\obj\Debug\nyelvvizsga.exe
+C:\Users\Peti\source\repos\nyelvvizsga\nyelvvizsga\obj\Debug\nyelvvizsga.pdb

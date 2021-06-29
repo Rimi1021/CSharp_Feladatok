@@ -1,0 +1,7 @@
+C:\Users\Peti\source\repos\snooker\snooker\bin\Debug\snooker.exe.config
+C:\Users\Peti\source\repos\snooker\snooker\bin\Debug\snooker.exe
+C:\Users\Peti\source\repos\snooker\snooker\bin\Debug\snooker.pdb
+C:\Users\Peti\source\repos\snooker\snooker\obj\Debug\snooker.csprojAssemblyReference.cache
+C:\Users\Peti\source\repos\snooker\snooker\obj\Debug\snooker.csproj.CoreCompileInputs.cache
+C:\Users\Peti\source\repos\snooker\snooker\obj\Debug\snooker.exe
+C:\Users\Peti\source\repos\snooker\snooker\obj\Debug\snooker.pdb

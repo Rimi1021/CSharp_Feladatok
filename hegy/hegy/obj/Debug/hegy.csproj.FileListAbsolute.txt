@@ -1,0 +1,7 @@
+C:\Users\Peti\source\repos\hegy\hegy\bin\Debug\hegy.exe.config
+C:\Users\Peti\source\repos\hegy\hegy\bin\Debug\hegy.exe
+C:\Users\Peti\source\repos\hegy\hegy\bin\Debug\hegy.pdb
+C:\Users\Peti\source\repos\hegy\hegy\obj\Debug\hegy.csprojAssemblyReference.cache
+C:\Users\Peti\source\repos\hegy\hegy\obj\Debug\hegy.csproj.CoreCompileInputs.cache
+C:\Users\Peti\source\repos\hegy\hegy\obj\Debug\hegy.exe
+C:\Users\Peti\source\repos\hegy\hegy\obj\Debug\hegy.pdb

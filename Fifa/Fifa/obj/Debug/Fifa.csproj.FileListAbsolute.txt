@@ -1,0 +1,7 @@
+C:\Users\Peti\source\repos\Fifa\Fifa\bin\Debug\Fifa.exe.config
+C:\Users\Peti\source\repos\Fifa\Fifa\bin\Debug\Fifa.exe
+C:\Users\Peti\source\repos\Fifa\Fifa\bin\Debug\Fifa.pdb
+C:\Users\Peti\source\repos\Fifa\Fifa\obj\Debug\Fifa.csprojAssemblyReference.cache
+C:\Users\Peti\source\repos\Fifa\Fifa\obj\Debug\Fifa.csproj.CoreCompileInputs.cache
+C:\Users\Peti\source\repos\Fifa\Fifa\obj\Debug\Fifa.exe
+C:\Users\Peti\source\repos\Fifa\Fifa\obj\Debug\Fifa.pdb
